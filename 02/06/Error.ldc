@@ -1,0 +1,305 @@
+06/02/2025	07:13:22	SoftwareTerminatedUnexpectedly			"SoftwareTerminatedUnexpectedly"	ZSU/00033/01/2025/296830	8	"SoftwareTerminatedUnexpectedly"
+06/02/2025	07:13:29	WorkSupervisorApi	StateMachine	3	"Machine controller has been restarted due to an unexpected failure."	ZSU/00033/01/2025/296830	8	"Machine controller has been restarted due to an unexpected failure."
+06/02/2025	07:17:51	WorkSupervisorApi	StateMachine	3	"Machine controller has been restarted due to an unexpected failure."	ZSU/00033/01/2025/296830	7	"Machine controller has been restarted due to an unexpected failure."
+06/02/2025	07:19:11	Alpha5xx	Cleanup	14	"There may be a setup gauge or a wire in the gripper side 2."	ZSU/00033/01/2025/296830	9	"There may be a setup gauge or a wire in the gripper side 2."
+06/02/2025	07:21:21	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.22 NC too low (Minimum: 0.25 NC)."	ZSU/00033/01/2025/296830	9	"Crimp force monitoring: Measured peak force of 0.22 NC too low (Minimum: 0.25 NC)."
+06/02/2025	07:24:00	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.22 NC too low (Minimum: 0.25 NC)."	ZSU/00033/01/2025/296830	9	"Crimp force monitoring: Measured peak force of 0.22 NC too low (Minimum: 0.25 NC)."
+06/02/2025	07:43:58	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.1 NC too low (Minimum: 0.2 NC)."	ZSU/00033/01/2025/296830	3	"Crimp force monitoring: Measured peak force of 0.1 NC too low (Minimum: 0.2 NC)."
+06/02/2025	07:48:15	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.1 NC too low (Minimum: 0.2 NC)."	ZSU/00033/01/2025/296830	3	"Crimp force monitoring: Measured peak force of 0.1 NC too low (Minimum: 0.2 NC)."
+06/02/2025	07:50:05	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.22 NC too low (Minimum: 0.25 NC)."	ZSU/00033/01/2025/296830	5	"Crimp force monitoring: Measured peak force of 0.22 NC too low (Minimum: 0.25 NC)."
+06/02/2025	07:52:55	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.21 NC too low (Minimum: 0.25 NC)."	ZSU/00033/01/2025/296830	5	"Crimp force monitoring: Measured peak force of 0.21 NC too low (Minimum: 0.25 NC)."
+06/02/2025	08:00:16	SoftwareTerminatedUnexpectedly			"SoftwareTerminatedUnexpectedly"	ZSU/00033/01/2025/296830	7	"SoftwareTerminatedUnexpectedly"
+06/02/2025	08:00:20	WorkSupervisorApi	StateMachine	3	"Machine controller has been restarted due to an unexpected failure."	ZSU/00033/01/2025/296830	7	"Machine controller has been restarted due to an unexpected failure."
+06/02/2025	13:37:48	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	13:51:28	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:04:54	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	5	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:20:02	Alpha5xx	FCD	6	"Slip error detected"	ZSU/00034/01/2025/296880	7	"Slip error detected"
+06/02/2025	14:21:55	Alpha5xx	Cleanup	1	"Cannot process swivel move. Swivel is blocked."	ZSU/00034/01/2025/296880	7	"Cannot process swivel move. Swivel is blocked."
+06/02/2025	14:21:59	WorkSupervisorApi	StateMachine	5	"The load voltage was switched off."	ZSU/00034/01/2025/296880	7	"The load voltage was switched off."
+06/02/2025	14:29:07	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:29:17	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:29:26	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSU/00034/01/2025/296880	7	"It could not be checked whether the bad cable was cut properly."
+06/02/2025	14:29:44	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSU/00034/01/2025/296880	7	"It could not be checked whether the bad cable was cut properly."
+06/02/2025	14:29:50	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSU/00034/01/2025/296880	7	"It could not be checked whether the bad cable was cut properly."
+06/02/2025	14:30:11	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:30:23	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSU/00034/01/2025/296880	7	"It could not be checked whether the bad cable was cut properly."
+06/02/2025	14:30:57	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSU/00034/01/2025/296880	7	"It could not be checked whether the bad cable was cut properly."
+06/02/2025	14:30:58	WorkSupervisorApi	StateMachine	5	"The load voltage was switched off."	ZSU/00034/01/2025/296880	7	"The load voltage was switched off."
+06/02/2025	14:31:51	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSU/00034/01/2025/296880	7	"It could not be checked whether the bad cable was cut properly."
+06/02/2025	14:33:08	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+06/02/2025	14:33:25	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+06/02/2025	14:33:30	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+06/02/2025	14:33:34	KmfApi	ACSeFirmware	83	"Safe speed range (SSR) violated."	ZSU/00034/01/2025/296880	7	"Safe speed range (SSR) violated."
+06/02/2025	14:33:44	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSU/00034/01/2025/296880	7	"It could not be checked whether the bad cable was cut properly."
+06/02/2025	14:35:40	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:36:02	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:36:04	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:36:05	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	14:36:06	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	15:07:52	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	15:07:55	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00034/01/2025/296880	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+06/02/2025	16:32:20	InkjetModule	Kimi	1	"No connection to printer."	ZSU/00005/01/2025/294700	1	"No connection to printer."
+06/02/2025	16:50:31	WorkSupervisorApi	StateMachine	5	"The load voltage was switched off."	ZSU/00005/01/2025/294700	1	"The load voltage was switched off."
+06/02/2025	16:50:46	Alpha5xx	Production	2	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 59 ms)"	ZSU/00005/01/2025/294700	1	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 59 ms)"
+06/02/2025	17:24:41	Alpha5xx	Production	2	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 58 ms)"	ZSU/00005/01/2025/294700	3	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 58 ms)"
+06/02/2025	17:35:37	Alpha5xx	FCD	6	"Slip error detected"	ZSU/00005/01/2025/294700	5	"Slip error detected"
+06/02/2025	17:48:02	Alpha5xx	Production	2	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 61 ms)"	ZSU/00005/01/2025/294700	5	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 61 ms)"
+06/02/2025	18:19:33	LeadEndProcess	EcatCrimpModule	128	"The crimp height is not verified."	ZSU/00005/01/2025/294700	5	"The crimp height is not verified."
+06/02/2025	18:19:53	LeadEndProcess	EcatCrimpModule	128	"The crimp height is not verified."	ZSU/00005/01/2025/294700	5	"The crimp height is not verified."
+06/02/2025	20:10:33	KmfApi	Motion	16	"Communication problem with service data."	ZSU/00005/01/2025/294700	7	"Communication problem with service data."

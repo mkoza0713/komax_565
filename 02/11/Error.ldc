@@ -1,0 +1,90 @@
+11/02/2025	15:55:45	WorkSupervisorApi	StateMachine	3	"Machine controller has been restarted due to an unexpected failure."	LOCAL(1)	1	"Machine controller has been restarted due to an unexpected failure."
+11/02/2025	16:12:50	KmfApi	Motion	16	"Communication problem with service data."	LOCAL(1)	1	"Communication problem with service data."
+11/02/2025	16:18:50	KmfApi	Motion	16	"Communication problem with service data."	LOCAL(1)	1	"Communication problem with service data."
+11/02/2025	17:23:14	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00091/11/2024/693960	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+11/02/2025	17:27:00	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00091/11/2024/693960	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+11/02/2025	18:27:16	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00007/01/2025/567960	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+11/02/2025	18:27:18	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00007/01/2025/567960	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+11/02/2025	18:27:19	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00007/01/2025/567960	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+11/02/2025	20:06:20	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 10.7 NC exceeded 120% limit of 8.7 NC."	LOCAL(1)	1	"Crimp force monitoring: Measured peak force of 10.7 NC exceeded 120% limit of 8.7 NC."
+11/02/2025	23:12:52	KmfApi	Motion	16	"Communication problem with service data."	ZSA/00022/01/2025/573580	1	"Communication problem with service data."

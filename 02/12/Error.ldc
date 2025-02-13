@@ -1,0 +1,386 @@
+12/02/2025	00:35:39	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00044/01/2025/065050	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	00:37:55	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00044/01/2025/065050	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	01:00:39	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00002/02/2025/574620	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	01:22:25	Alpha5xx	FCD	6	"Slip error detected"	ZSA/00002/02/2025/574620	1	"Slip error detected"
+12/02/2025	05:09:46	Alpha5xx	FCD	6	"Slip error detected"	ZSK/00066/11/2024/699310	6	"Slip error detected"
+12/02/2025	05:42:10	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00066/11/2024/699300	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	06:00:28	KmfApi	Motion	16	"Communication problem with service data."	ZSK/00066/11/2024/699300	6	"Communication problem with service data."
+12/02/2025	06:00:40	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSK/00066/11/2024/699300	6	"Timeout while waiting for the gripper pressure."
+12/02/2025	06:56:44	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Jet Stop]  Warining:[No warning]
+Alarm code: 2."	ZSK/00054/11/2024/699270	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Jet Stop]  Warining:[No warning]
+Alarm code: 2."
+12/02/2025	06:56:44	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Jet Stop]  Warining:[No warning]
+Alarm code: 2."	ZSK/00054/11/2024/699270	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Jet Stop]  Warining:[No warning]
+Alarm code: 2."
+12/02/2025	07:10:37	Alpha5xx	FCD	6	"Slip error detected"	ZSK/00054/11/2024/699270	3	"Slip error detected"
+12/02/2025	07:49:51	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00054/11/2024/699270	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	07:51:39	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00054/11/2024/699270	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	07:53:18	KmfApi	ACSeFirmware	83	"Safe speed range (SSR) violated."	ZSK/00054/11/2024/699270	3	"Safe speed range (SSR) violated."
+12/02/2025	07:53:25	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSK/00054/11/2024/699270	3	"Timeout while waiting for the gripper pressure."
+12/02/2025	07:57:14	Alpha5xx	FCD	6	"Slip error detected"	ZSK/00054/11/2024/699270	3	"Slip error detected"
+12/02/2025	08:19:37	Alpha5xx	FCD	6	"Slip error detected"	ZSK/00054/11/2024/699270	5	"Slip error detected"
+12/02/2025	08:47:30	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00066/11/2024/699330	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	09:45:18	Alpha5xx	FCD	6	"Slip error detected"	ZSK/00066/11/2024/699300	1	"Slip error detected"
+12/02/2025	09:45:27	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSK/00066/11/2024/699300	1	"It could not be checked whether the bad cable was cut properly."
+12/02/2025	10:22:45	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00066/11/2024/699310	5	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	10:49:55	Alpha5xx	FCD	6	"Slip error detected"	ZSK/00054/11/2024/699250	5	"Slip error detected"
+12/02/2025	10:50:06	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSK/00054/11/2024/699250	5	"It could not be checked whether the bad cable was cut properly."
+12/02/2025	10:54:27	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Communication Buffer Fault]  Warining:[No warning]
+Alarm code: 2."	ZSK/00054/11/2024/699250	5	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Communication Buffer Fault]  Warining:[No warning]
+Alarm code: 2."
+12/02/2025	10:54:28	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Communication Buffer Fault]  Warining:[No warning]
+Alarm code: 2."	ZSK/00054/11/2024/699250	5	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Communication Buffer Fault]  Warining:[No warning]
+Alarm code: 2."
+12/02/2025	12:07:23	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 120 ms)"	LOCAL(1)	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 120 ms)"
+12/02/2025	12:11:57	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	12:20:09	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00022/01/2025/573200	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	13:05:53	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00040/01/2025/305750	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	14:11:15	KmfApi	Motion	16	"Communication problem with service data."	ZSU/00040/01/2025/305780	1	"Communication problem with service data."
+12/02/2025	14:11:38	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305780	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	15:06:37	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 121 ms)"	ZSU/00040/01/2025/305710	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 121 ms)"
+12/02/2025	15:06:49	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305710	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	15:47:22	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00040/01/2025/305710	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	16:08:09	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305710	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	16:08:16	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305710	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	16:27:46	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00040/01/2025/305710	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	16:52:21	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 121 ms)"	ZSU/00040/01/2025/305770	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 121 ms)"
+12/02/2025	16:52:29	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305770	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	17:27:27	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00040/01/2025/305770	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	17:33:33	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00040/01/2025/305770	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	17:34:45	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00040/01/2025/305770	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	17:34:46	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00040/01/2025/305770	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	18:16:00	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 131 ms)"	ZSU/00040/01/2025/305760	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 131 ms)"
+12/02/2025	18:16:10	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305760	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	18:16:17	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305760	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	19:55:02	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 121 ms)"	ZSU/00040/01/2025/305760	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 121 ms)"
+12/02/2025	19:55:13	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305760	3	"Timeout while waiting for the gripper pressure."
+12/02/2025	19:55:19	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305760	3	"Timeout while waiting for the gripper pressure."
+12/02/2025	20:02:11	KmfApi	Motion	16	"Communication problem with service data."	ZSU/00040/01/2025/305760	3	"Communication problem with service data."
+12/02/2025	20:02:45	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305760	3	"Timeout while waiting for the gripper pressure."
+12/02/2025	21:05:59	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 162 ms)"	ZSU/00040/01/2025/305760	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 162 ms)"
+12/02/2025	21:31:38	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00040/01/2025/305760	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+12/02/2025	22:05:02	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305730	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	22:05:15	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305730	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	22:05:21	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305730	1	"Timeout while waiting for the gripper pressure."
+12/02/2025	22:05:34	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 123 ms)"	ZSU/00040/01/2025/305730	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 123 ms)"
+12/02/2025	22:05:46	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00040/01/2025/305730	1	"Timeout while waiting for the gripper pressure."

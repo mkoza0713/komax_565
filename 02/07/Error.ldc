@@ -1,0 +1,529 @@
+07/02/2025	07:15:03	InkjetModule	Kimi	1	"No connection to printer."	ZSA/00007/01/2025/572410	1	"No connection to printer."
+07/02/2025	08:51:02	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00007/01/2025/572410	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	09:01:51	LeadEndProcess	EcatCrimpModule	64	"Safety system has encountered a problem.: Discrepancy on safety system has been detected."	ZSA/00007/01/2025/572410	1	"Safety system has encountered a problem.: Discrepancy on safety system has been detected."
+07/02/2025	09:48:01	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 14.8 NC exceeded 120% limit of 13.0 NC."	ZSA/00013/01/2025/569620	1	"Crimp force monitoring: Measured peak force of 14.8 NC exceeded 120% limit of 13.0 NC."
+07/02/2025	09:48:57	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 14.1 NC exceeded 120% limit of 13.0 NC."	ZSA/00013/01/2025/569620	1	"Crimp force monitoring: Measured peak force of 14.1 NC exceeded 120% limit of 13.0 NC."
+07/02/2025	09:49:11	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSA/00013/01/2025/569620	1	"It could not be checked whether the bad cable was cut properly."
+07/02/2025	11:18:42	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	11:18:59	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	13:44:34	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 15.3 NC exceeded 120% limit of 9.1 NC."	LOCAL(1)	1	"Crimp force monitoring: Measured peak force of 15.3 NC exceeded 120% limit of 9.1 NC."
+07/02/2025	13:54:12	KmfApi	ACSeFirmware	92	"Position deviation during safely limited torque (SLT)."	LOCAL(1)	1	"Position deviation during safely limited torque (SLT)."
+07/02/2025	13:55:20	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	LOCAL(1)	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+07/02/2025	15:14:39	Alpha5xx	FCD	6	"Slip error detected"	ZSA/00022/01/2025/573680	1	"Slip error detected"
+07/02/2025	15:16:17	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00022/01/2025/573680	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	15:27:59	Alpha5xx	FCD	6	"Slip error detected"	ZSA/00022/01/2025/573970	2	"Slip error detected"
+07/02/2025	16:25:04	Alpha5xx	Cleanup	1	"Cannot process swivel move. Swivel is blocked."	ZSU/00043/01/2025/297610	1	"Cannot process swivel move. Swivel is blocked."
+07/02/2025	16:25:32	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSU/00043/01/2025/297610	1	"It could not be checked whether the bad cable was cut properly."
+07/02/2025	16:28:03	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00043/01/2025/297610	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	16:44:44	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00043/01/2025/297610	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	17:26:31	Alpha5xx	Cleanup	1	"Cannot process swivel move. Swivel is blocked."	ZSK/00063/01/2025/699730	1	"Cannot process swivel move. Swivel is blocked."
+07/02/2025	17:27:31	Alpha5xx	Cleanup	1	"Cannot process swivel move. Swivel is blocked."	ZSK/00063/01/2025/699730	1	"Cannot process swivel move. Swivel is blocked."
+07/02/2025	17:27:42	Alpha5xx	Cleanup	1	"Cannot process swivel move. Swivel is blocked."	ZSK/00063/01/2025/699730	1	"Cannot process swivel move. Swivel is blocked."
+07/02/2025	18:02:25	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699740	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	18:02:41	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699740	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	18:05:38	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699740	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	18:36:43	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699740	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	18:45:10	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699740	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	18:56:10	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	18:56:40	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	18:57:23	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	18:58:22	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	18:58:29	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.4 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 5.4 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	19:01:19	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	19:01:43	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	19:03:30	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	19:11:29	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699740	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	19:11:40	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699740	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	19:11:48	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."	ZSK/00063/01/2025/699740	1	"Crimp force monitoring: Measured peak force of 5.1 NC exceeded 120% limit of 5.0 NC."
+07/02/2025	19:59:39	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699740	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	20:44:00	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699740	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	20:58:08	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699740	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	20:58:55	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699740	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	20:59:57	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699740	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:09:28	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:13:49	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:19:34	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+07/02/2025	22:19:55	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+07/02/2025	22:21:11	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:23:08	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+07/02/2025	22:24:08	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+07/02/2025	22:24:16	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+07/02/2025	22:27:12	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+07/02/2025	22:28:46	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:28:49	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:29:00	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSK/00063/01/2025/699730	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+07/02/2025	22:29:57	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:30:02	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:30:13	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:30:15	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:32:09	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:32:13	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:33:02	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:33:25	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:33:42	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:33:43	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+07/02/2025	22:33:58	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699730	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "

@@ -1,0 +1,277 @@
+10/02/2025	00:14:39	Alpha5xx	Production	2	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 59 ms)"	ZSU/00043/01/2025/297510.	1	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 59 ms)"
+10/02/2025	00:59:47	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00036/01/2025/297330	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+10/02/2025	01:01:29	RTControllerDevices	SMe	15	"SMe SMe-3920: Main compressed air too low."	ZSU/00036/01/2025/297330	3	"SMe SMe-3920: Main compressed air too low."
+10/02/2025	01:28:32	Alpha5xx	Production	2	"Gripper side 2: NotOpen time exceeds range (expected 40 ms, measured 55 ms)"	ZSU/00001/02/2025/298080	1	"Gripper side 2: NotOpen time exceeds range (expected 40 ms, measured 55 ms)"
+10/02/2025	01:29:09	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00001/02/2025/298080	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+10/02/2025	02:50:03	Alpha5xx	FCD	6	"Slip error detected"	ZSW/00006/12/2024/304560	1	"Slip error detected"
+10/02/2025	02:52:49	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Communication Buffer Fault]  Warining:[No warning]
+Alarm code: 2."	ZSW/00006/12/2024/304560	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Communication Buffer Fault]  Warining:[No warning]
+Alarm code: 2."
+10/02/2025	02:52:49	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Communication Buffer Fault]  Warining:[No warning]
+Alarm code: 2."	ZSW/00006/12/2024/304560	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Communication Buffer Fault]  Warining:[No warning]
+Alarm code: 2."
+10/02/2025	03:47:15	LeadEndProcess	EcatCrimpModule	22	"Crimp force monitoring: 4 of 10 results were bad."	ZSW/00006/12/2024/304560	3	"Crimp force monitoring: 4 of 10 results were bad."
+10/02/2025	03:50:50	LeadEndProcess	EcatCrimpModule	22	"Crimp force monitoring: 4 of 10 results were bad."	ZSW/00006/12/2024/304560	3	"Crimp force monitoring: 4 of 10 results were bad."
+10/02/2025	03:56:14	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSW/00006/12/2024/304560	3	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+10/02/2025	04:50:06	LeadEndProcess	EcatCrimpModule	21	"Crimp force monitoring: stop limit reached."	ZSW/00006/12/2024/304560	3	"Crimp force monitoring: stop limit reached."
+10/02/2025	05:03:57	Alpha5xx	FCD	6	"Slip error detected"	ZSW/00006/12/2024/304560	3	"Slip error detected"
+10/02/2025	07:33:05	LeadEndProcess	EcatCrimpModule	122	"Crimp force monitoring: Bad result while sample production detected."	ZSW/00006/12/2024/304560	3	"Crimp force monitoring: Bad result while sample production detected."
+10/02/2025	07:51:51	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+10/02/2025	07:51:58	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	LOCAL(1)	1	"It could not be checked whether the bad cable was cut properly."
+10/02/2025	08:01:18	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+10/02/2025	08:01:22	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+10/02/2025	08:01:24	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+10/02/2025	08:28:24	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+10/02/2025	08:28:59	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+10/02/2025	08:30:45	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+10/02/2025	08:33:54	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+10/02/2025	08:34:02	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+10/02/2025	08:46:49	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+10/02/2025	09:23:22	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+10/02/2025	09:27:25	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "	LOCAL(1)	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Process_Done not reached level = pinstate_high in 5000 ms. "
+10/02/2025	10:23:10	RTControllerDevices	BinaryGadgetTw4	1	"Thread-in support: Timeout waiting for state."	ZSK/00063/01/2025/699740	1	"Thread-in support: Timeout waiting for state."
+10/02/2025	10:23:27	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSK/00063/01/2025/699740	1	"Timeout while waiting for the gripper pressure."
+10/02/2025	10:23:48	RTControllerDevices	BinaryGadgetTw4	1	"Thread-in support: Timeout waiting for state."	ZSK/00063/01/2025/699740	1	"Thread-in support: Timeout waiting for state."
+10/02/2025	10:23:53	RTControllerDevices	BinaryGadgetTw4	1	"Thread-in support: Timeout waiting for state."	ZSK/00063/01/2025/699740	1	"Thread-in support: Timeout waiting for state."
+10/02/2025	10:23:58	RTControllerDevices	BinaryGadgetTw4	1	"Thread-in support: Timeout waiting for state."	ZSK/00063/01/2025/699740	1	"Thread-in support: Timeout waiting for state."
+10/02/2025	10:24:12	RTControllerDevices	BinaryGadgetTw4	1	"Thread-in support: Timeout waiting for state."	ZSK/00063/01/2025/699740	1	"Thread-in support: Timeout waiting for state."

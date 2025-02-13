@@ -1,0 +1,258 @@
+04/02/2025	07:00:58	InkjetModule	Kimi	1	"No connection to printer."	ZSU/00020/01/2025/295580	3	"No connection to printer."
+04/02/2025	08:03:50	LeadEndProcess	EcatCrimpModule	21	"Crimp force monitoring: stop limit reached."	ZSU/00020/01/2025/295580	1	"Crimp force monitoring: stop limit reached."
+04/02/2025	08:05:24	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00020/01/2025/295580	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	08:05:48	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00020/01/2025/295580	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	08:56:42	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00020/01/2025/295580	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	09:37:10	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00036/01/2025/297230	1	"Timeout while waiting for the gripper pressure."
+04/02/2025	09:37:17	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00036/01/2025/297230	1	"Timeout while waiting for the gripper pressure."
+04/02/2025	10:49:59	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00020/01/2025/295540	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	10:50:04	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00020/01/2025/295540	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	11:51:57	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00020/01/2025/295540	7	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	12:10:46	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[Makeup Ink Low]
+Alarm code: 2."	ZSU/00020/01/2025/295540	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[Makeup Ink Low]
+Alarm code: 2."
+04/02/2025	12:10:47	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[Makeup Ink Low]
+Alarm code: 2."	ZSU/00020/01/2025/295540	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[Makeup Ink Low]
+Alarm code: 2."
+04/02/2025	12:41:53	KmfApi	ACSeFirmware	34	"Position deviation."	ZSU/00033/01/2025/296840	1	"Position deviation."
+04/02/2025	12:42:09	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00033/01/2025/296840	1	"Timeout while waiting for the gripper pressure."
+04/02/2025	13:02:06	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Makeup Ink Low Fault]  Warining:[No warning]
+Alarm code: 2."	ZSU/00033/01/2025/296840	3	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Makeup Ink Low Fault]  Warining:[No warning]
+Alarm code: 2."
+04/02/2025	13:02:07	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Makeup Ink Low Fault]  Warining:[No warning]
+Alarm code: 2."	ZSU/00033/01/2025/296840	3	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Makeup Ink Low Fault]  Warining:[No warning]
+Alarm code: 2."
+04/02/2025	13:28:28	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[No warning]
+Alarm code: 2."	ZSU/00033/01/2025/296840	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[No warning]
+Alarm code: 2."
+04/02/2025	13:28:29	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[No warning]
+Alarm code: 2."	ZSU/00033/01/2025/296840	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[No warning]
+Alarm code: 2."
+04/02/2025	13:28:40	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[No warning]
+Alarm code: 2."	ZSU/00033/01/2025/296840	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[No warning]
+Alarm code: 2."
+04/02/2025	13:28:41	InkjetModule	Kimi	2	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[No warning]
+Alarm code: 2."	ZSU/00033/01/2025/296840	1	"Printer is not ready for printing
+
+Printer status: SystemMode
+Printer message: Printer is not Ready
+Printer info: Status:[Standby, cover open or starting]  Warining:[No warning]
+Alarm code: 2."
+04/02/2025	15:25:11	LeadEndProcess	EcatCrimpModule	22	"Crimp force monitoring: 4 of 10 results were bad."	ZSU/00020/01/2025/295530	3	"Crimp force monitoring: 4 of 10 results were bad."
+04/02/2025	17:08:23	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00004/01/2025/564830	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	17:39:33	Alpha5xx	Production	2	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 58 ms)"	ZSA/00006/01/2025/566070	5	"Gripper side 2: NotOpen time exceeds range (expected 43 ms, measured 58 ms)"
+04/02/2025	18:16:50	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00036/01/2025/297310	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	18:17:22	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00036/01/2025/297310	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+04/02/2025	18:54:40	LeadEndProcess	Q1240	6	"The measurement result of the lead end does not fulfill quality requirements."	LOCAL(1)	1	"The measurement result of the lead end does not fulfill quality requirements."
+04/02/2025	19:27:36	LeadEndProcess	Q1240	6	"The measurement result of the lead end does not fulfill quality requirements."	LOCAL(1)	1	"The measurement result of the lead end does not fulfill quality requirements."
+04/02/2025	19:56:15	LeadEndProcess	Q1240	6	"The measurement result of the lead end does not fulfill quality requirements."	LOCAL(1)	1	"The measurement result of the lead end does not fulfill quality requirements."
+04/02/2025	20:28:47	LeadEndProcess	Q1240	6	"The measurement result of the lead end does not fulfill quality requirements."	LOCAL(1)	1	"The measurement result of the lead end does not fulfill quality requirements."
+04/02/2025	20:30:01	LeadEndProcess	Q1240	6	"The measurement result of the lead end does not fulfill quality requirements."	LOCAL(1)	1	"The measurement result of the lead end does not fulfill quality requirements."
+04/02/2025	20:30:05	RTControllerDevices	BinaryGadgetTw4	1	"Conveyor belt: Timeout waiting for state."	LOCAL(1)	1	"Conveyor belt: Timeout waiting for state."
+04/02/2025	20:30:19	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	LOCAL(1)	1	"Timeout while waiting for the gripper pressure."
+04/02/2025	20:30:31	LeadEndProcess	Q1240	6	"The measurement result of the lead end does not fulfill quality requirements."	LOCAL(1)	1	"The measurement result of the lead end does not fulfill quality requirements."
+04/02/2025	22:10:48	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 159 ms)"	ZSU/00017/01/2025/295020	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 159 ms)"

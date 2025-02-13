@@ -1,0 +1,180 @@
+05/02/2025	06:53:35	InkjetModule	Kimi	1	"No connection to printer."	ZSU/00036/01/2025/297340	1	"No connection to printer."
+05/02/2025	07:14:51	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 7.507 NC exceeded 120% limit of 7.500 NC."	ZSU/00036/01/2025/297340	1	"Crimp force monitoring: Measured peak force of 7.507 NC exceeded 120% limit of 7.500 NC."
+05/02/2025	07:16:01	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 7.54 NC exceeded 120% limit of 7.50 NC."	ZSU/00036/01/2025/297340	1	"Crimp force monitoring: Measured peak force of 7.54 NC exceeded 120% limit of 7.50 NC."
+05/02/2025	07:17:23	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00036/01/2025/297340	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	07:22:46	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."	ZSU/00036/01/2025/297340	1	"Crimp force monitoring: Measured peak force of 0.0 NC too low (Minimum: 0.2 NC)."
+05/02/2025	08:08:01	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699710	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	08:20:57	Alpha5xx	FCD	6	"Slip error detected"	ZSK/00063/01/2025/699710	1	"Slip error detected"
+05/02/2025	08:34:04	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699710	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	09:19:24	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSK/00063/01/2025/699710	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	11:54:04	Alpha5xx	FCD	6	"Slip error detected"	ZSW/00012/11/2024/310870	1	"Slip error detected"
+05/02/2025	12:06:08	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSW/00012/11/2024/310870	1	"Timeout while waiting for the gripper pressure."
+05/02/2025	12:07:40	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 143 ms)"	ZSW/00012/11/2024/310870	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 143 ms)"
+05/02/2025	12:09:31	Alpha5xx	FCD	6	"Slip error detected"	ZSW/00012/11/2024/310870	1	"Slip error detected"
+05/02/2025	12:55:50	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSW/00012/11/2024/310870	1	"It could not be checked whether the bad cable was cut properly."
+05/02/2025	13:20:45	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSW/00012/11/2024/310870	1	"It could not be checked whether the bad cable was cut properly."
+05/02/2025	13:21:03	Alpha5xx	Cleanup	7	"It could not be checked whether the bad cable was cut properly."	ZSW/00012/11/2024/310870	1	"It could not be checked whether the bad cable was cut properly."
+05/02/2025	13:25:40	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSW/00012/11/2024/310870	1	"Timeout while waiting for the gripper pressure."
+05/02/2025	14:07:14	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 177 ms)"	ZSW/00012/11/2024/310870	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 177 ms)"
+05/02/2025	14:07:22	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSW/00012/11/2024/310870	1	"Timeout while waiting for the gripper pressure."
+05/02/2025	15:19:18	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 121 ms)"	LOCAL(1)	7	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 121 ms)"
+05/02/2025	18:00:07	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00030/01/2025/298270	5	"Timeout while waiting for the gripper pressure."
+05/02/2025	18:00:15	MonitoringHelpers	Monitoring	4	"Timeout while waiting for the gripper pressure."	ZSU/00030/01/2025/298270	5	"Timeout while waiting for the gripper pressure."
+05/02/2025	18:00:47	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 140 ms)"	ZSU/00030/01/2025/298270	5	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 140 ms)"
+05/02/2025	18:54:54	Alpha5xx	Production	3	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 125 ms)"	ZSA/00005/01/2025/568230	1	"Hold-up unit: Lift time exceeds range (expected 80 ms, measured 125 ms)"
+05/02/2025	18:55:06	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSA/00005/01/2025/568230	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	20:41:58	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00032/01/2025/297050	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	20:49:23	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00032/01/2025/297050	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	20:57:19	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00032/01/2025/297050	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	20:58:48	RTGenericModule	RTGenericModule	1	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "	ZSU/00032/01/2025/297050	3	"AEH-G Error:
+Module is not ready.
+Detail information is shown on the display of the AEH-G.
+
+Press 'Retry' to check the input state and continue.
+Press 'Cancel' to cancle processing.
+
+Additional information:
+Input_Ready not reached level = pinstate_high in 100 ms. "
+05/02/2025	21:18:29	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.21 NC too low (Minimum: 0.25 NC)."	ZSU/00032/01/2025/297050	1	"Crimp force monitoring: Measured peak force of 0.21 NC too low (Minimum: 0.25 NC)."
+05/02/2025	21:52:27	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.22 NC too low (Minimum: 0.25 NC)."	ZSU/00032/01/2025/297050	1	"Crimp force monitoring: Measured peak force of 0.22 NC too low (Minimum: 0.25 NC)."
+05/02/2025	22:14:39	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 9.93 NC exceeded 120% limit of 9.91 NC."	ZSU/00033/01/2025/296830	1	"Crimp force monitoring: Measured peak force of 9.93 NC exceeded 120% limit of 9.91 NC."
+05/02/2025	22:14:56	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 9.95 NC exceeded 120% limit of 9.91 NC."	ZSU/00033/01/2025/296830	1	"Crimp force monitoring: Measured peak force of 9.95 NC exceeded 120% limit of 9.91 NC."
+05/02/2025	22:15:05	LeadEndProcess	EcatCrimpModule	19	"Crimp force monitoring: Measured peak force of 9.99 NC exceeded 120% limit of 9.91 NC."	ZSU/00033/01/2025/296830	1	"Crimp force monitoring: Measured peak force of 9.99 NC exceeded 120% limit of 9.91 NC."
+05/02/2025	22:18:44	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.1 NC too low (Minimum: 0.2 NC)."	ZSU/00033/01/2025/296830	3	"Crimp force monitoring: Measured peak force of 0.1 NC too low (Minimum: 0.2 NC)."
+05/02/2025	22:20:50	LeadEndProcess	EcatCrimpModule	27	"Crimp force monitoring: Measured peak force of 0.24 NC too low (Minimum: 0.25 NC)."	ZSU/00033/01/2025/296830	3	"Crimp force monitoring: Measured peak force of 0.24 NC too low (Minimum: 0.25 NC)."
